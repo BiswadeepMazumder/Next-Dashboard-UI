@@ -1,0 +1,5 @@
+1. To create a next app
+
+    npx create-next-app@latest [project-name] [options]
+
+2. 
